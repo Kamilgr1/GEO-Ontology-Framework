@@ -151,6 +151,10 @@ The fundamental problem today is that GEO is being entirely misused, treated fun
 SEO optimizes visibility. GEO constructs the very logic by which the neural network will "think" about your category.
 
 ---
+## Original Publication & Background
+The foundational concepts of this framework were initially explored and published in Russian. You can read the original localized article here: [Why SEO is Immortal — And the True Nature of GEO](https://habr.com/ru/articles/1025344/).
+
+For a deeper dive into my ongoing research on LLM internal mechanics, AI safety, and cognitive frameworks, visit my [Habr Author Profile](https://habr.com/ru/users/Kamil_GR/articles/) (Content is predominantly in Russian; browser translation is highly recommended for the technical and architectural breakdowns).
 
 ## Citation
 If you use this framework or its concepts in your research or publications, please cite it:
