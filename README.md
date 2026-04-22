@@ -159,16 +159,4 @@ For a deeper dive into my ongoing research on LLM internal mechanics, AI safety,
 ## Citation
 If you use this framework or its concepts in your research or publications, please cite it:
 
-**APA:**
 > Gadeev, K. (2026). *GEO Ontology Framework: The True Nature of Generative Engine Optimization*. GitHub. https://github.com/Kamilgr1/GEO-Ontology-Framework
-
-**BibTeX:**
-```bibtex
-@misc{gadeev_geo_2026,
-  author = {Gadeev, Kamil},
-  title = {GEO Ontology Framework: The True Nature of Generative Engine Optimization},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{[https://github.com/Kamilgr1/GEO-Ontology-Framework](https://github.com/Kamilgr1/GEO-Ontology-Framework)}}
-}
